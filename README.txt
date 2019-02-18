@@ -1,0 +1,1 @@
+Cet exercice consiste à créer un repository, à y créer ce fichier txt ainsi que deux autres et réaliser 4 commits distincts.
